@@ -32,14 +32,15 @@ java CalculatorImpl.java
 
 ## Project Structure 
 
-📦src
- ┣ 📂main
- ┃ ┣ 📂 java
- ┃  ┃┣ 📂at
- ┃  ┃ ┃┣ 📂fhj
- ┃  ┃ ┃┃┣ 📂iit
- ┃  ┃ ┃┃┃┣ 📜Calculatorimpl.java
- ┃ ┃ ┃┃┃┗ 📜ICalculator.java
+src/
+├── main/
+│   └── java/
+│       └── at/
+│           └── fhj/
+│               └── iit/
+│                   ├── Calculatorimpl.java
+│                   └── ICalculator.java
+
 
 ## Contribution 
 Feel free to send us your questions or requests through our Github account.
