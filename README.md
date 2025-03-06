@@ -32,7 +32,6 @@ java CalculatorImpl.java
 
 ## Project Structure 
 
-<<<<<<< HEAD
 ```
 📦src
  ┣ 📂main
@@ -43,17 +42,6 @@ java CalculatorImpl.java
  ┃  ┃ ┃┃┃┣ 📜Calculatorimpl.java
  ┃ ┃ ┃┃┃┗ 📜ICalculator.java
 ```
-=======
-src/
-├── main/
-│   └── java/
-│       └── at/
-│           └── fhj/
-│               └── iit/
-│                   ├── Calculatorimpl.java
-│                   └── ICalculator.java
-
->>>>>>> a21b48aefba444f6a2624eaad8a73375f180153f
 
 ## Contribution 
 Feel free to send us your questions or requests through our Github account.
