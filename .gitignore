@@ -2,3 +2,6 @@
 *.pdf
 .DS_Store
 *.jpg
+*.log
+*.tmp
+target/
