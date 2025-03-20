@@ -14,3 +14,8 @@ After building the project, a `target/` folder was created.
 ### Compile and build success:
 After compiling, the build was successful. 
 ![Build Success](resources/images/ex3_2.png)
+
+### build success with name:
+After running the `mvn exec:java` command, the following output was displayed in the console:
+
+![Screenshot with name](resources/images/ex3_3.png)
