@@ -1,4 +1,4 @@
-package at.fhj.iit;
+package at.fhj.msd;
 
 public interface ICalculator {
   public abstract double add(double number1, double number2);
