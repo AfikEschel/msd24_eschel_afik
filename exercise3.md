@@ -10,3 +10,7 @@
 After building the project, a `target/` folder was created.
 
 ![Target Folder Structure](resources/images/ex3_1.png)
+
+### Compile and build success:
+After compiling, the build was successful. 
+![Build Success](resources/images/ex3_2.png)
