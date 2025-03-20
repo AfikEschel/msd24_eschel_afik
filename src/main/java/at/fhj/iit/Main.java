@@ -2,6 +2,8 @@ package at.fhj.iit;
 
 public class Main {
     public static void main(String[] args) {
+        System.out.println("Afik Eschel");
+        
         // Create an instance of CalculatorImpl
         ICalculator calculator = new CalculatorImpl();
 
