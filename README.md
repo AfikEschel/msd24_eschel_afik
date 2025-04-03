@@ -59,7 +59,7 @@ Here are the exercises for this course:
 
 - [Exercise1](exercise1.md) - Description of Calculator App
 - [Exercise2](exercise2.md) - Description of Git commands
-- [Exercise3](???)
-- [Exercise4](???)
+- [Exercise3](exercise3.md) - Java Project Versioning
+- [Exercise4](exercise4.md) - JUnit Testing 
 - [Exercise5](???)
 - [Exercise6](???)

@@ -31,3 +31,19 @@
 Screenshot of the JaCoCo coverage report:
 
 ![Test Coverage](resources/images/ex4_1.png)
+
+## Factorial (Test-Driven Development)
+
+The `factorial(int n)` method was implemented using the TDD approach.
+
+### Test Cases
+
+| Testname              | Input | Expected | Description                              |
+|-----------------------|-------|----------|------------------------------------------|
+| testFactorialFive     | 5     | 120.0    | Standard case, factorial of 5            |
+| testFactorialZero     | 0     | 1.0      | Edge case, factorial of 0                |
+| testFactorialNegative | -1    | 0.0      | Invalid input, returns 0 for negative    |
+
+A screenshot showing the failing tests before implementation was saved as:
+
+![Failing Factorial Tests](resources/images/ex4_2.png)
