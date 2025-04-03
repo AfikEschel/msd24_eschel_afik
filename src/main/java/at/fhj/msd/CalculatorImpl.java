@@ -51,4 +51,17 @@ public class CalculatorImpl implements ICalculator {
     public double multiply(double number1, double number2) {
         return number1 * number2;
     }
+
+    @Override
+    public double factorial(int n) {
+        if (n < 0) return 0;
+        if (n == 0) return 1;
+
+        double result = 1;
+        for (int i = 1; i <= n; i++) {
+            result *= i;
+        }
+        return result;
+    }
+
 }

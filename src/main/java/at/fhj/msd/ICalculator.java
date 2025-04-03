@@ -8,4 +8,7 @@ public interface ICalculator {
   public abstract double divide(double number1, double number2);
 
   public abstract double multiply(double number1, double number2);
+
+  double factorial(int n);
+
 }
