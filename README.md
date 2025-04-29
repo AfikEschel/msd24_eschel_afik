@@ -62,4 +62,4 @@ Here are the exercises for this course:
 - [Exercise3](exercise3.md) - Java Project Versioning
 - [Exercise4](exercise4.md) - JUnit Testing 
 - [Exercise5](exercise5.md) - Branching and new feature 
-- [Exercise6](???)
+- [Exercise6](exercise6.md) - Maven site

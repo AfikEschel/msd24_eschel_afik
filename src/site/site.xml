@@ -1,0 +1,10 @@
+<project name="Calculator">
+  <body>
+    <menu name="Documentation">
+      <item name="Exercise 6" href="exercise6.html"/>
+      <item name="Good Style" href="good_style.html"/>
+      <item name="JavaDoc" href="apidocs/index.html"/>
+      <item name="Test Report" href="surefire-report.html"/>
+    </menu>
+  </body>
+</project>
