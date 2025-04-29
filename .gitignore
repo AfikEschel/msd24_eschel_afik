@@ -5,6 +5,9 @@
 logs/
 *.log
 *.tmp
+/.idea/
+/*.iml
+
 
 # Maven build artifacts
 /target/
